@@ -96,7 +96,10 @@
 
 <br />
 
-<h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/lavanya151289/lavanya151289?color=blue&label=Total%20Commits" alt="Total Commits" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanya151289&show_icons=true&locale=en&layout=compact" alt="lavanya151289" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanya151289&show_icons=true&locale=en" alt="lavanya151289" />
 </p>
