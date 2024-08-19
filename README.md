@@ -27,6 +27,28 @@
 </p>
 
 <br />
+## Skills and Expertise ✨
+
+### Programming Languages
+I command proficiency in an array of languages, including **C**, **Java**, **Kotlin**, and **Python**. This diverse skill set equips me to develop intricate applications and tackle complex challenges with finesse, ensuring the delivery of high-quality solutions.
+
+### Web Development Frameworks
+I am well-versed in web development technologies including **React**, **Bootstrap**, **HTML**, **CSS**, and **JavaScript**. These tools enable me to create dynamic and responsive web applications with a focus on user experience.
+
+### Database Management
+My expertise extends to **MySQL** for database management. I excel in designing efficient database schemas, executing queries, and ensuring seamless data storage and retrieval. This proficiency complements my web development skills, facilitating the creation of data-driven applications.
+
+### Artificial Intelligence (AI)
+I possess practical experience in AI, delving into various domains such as **machine learning**, **natural language processing**, and **deep learning**. My exploration of AI has honed my skills in algorithmic problem-solving and data analysis, enabling me to develop innovative solutions that leverage the power of AI.
+
+### Ongoing Learning
+I'm dedicated to expanding my knowledge in **Full Stack development** by further exploring the **MERN stack**. Additionally, I'm committed to deepening my understanding of AI and exploring emerging technologies to stay at the forefront of innovation.
+
+### Interest Areas
+**Web development**, **AI**, **Android development**, **design**, and **UI** are my areas of interest.
+
+With my diverse skill set and unwavering enthusiasm, I'm poised to tackle new challenges and make meaningful contributions to the ever-evolving landscape of technology. Let's embark on this exciting journey together, driving innovation and pushing the boundaries of what's possible!
+
 
 <h3 align="left">Languages and Tools:</h3>
 
