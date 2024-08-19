@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavanya Sharma</h1>
 
-<h3 align="center">A final year Computer Science student exploring software development and programming.</h3>
+<h3 align="center">A final year Computer Science student exploring software development and programming. I also enjoy ui/ux and design in general.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lavanya151289&label=Profile%20views&color=0e75b6&style=flat" alt="lavanya151289" />
