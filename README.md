@@ -27,7 +27,7 @@
 </p>
 
 <br />
-## Skills and Expertise ✨
+
 
 ### Programming Languages
 I command proficiency in an array of languages, including **C**, **Java**, **Kotlin**, and **Python**. This diverse skill set equips me to develop intricate applications and tackle complex challenges with finesse, ensuring the delivery of high-quality solutions.
